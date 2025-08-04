@@ -1,4 +1,4 @@
-# Personal Assistant with Gemma3n
+# Cognito_AI :: Personal Assistant with Gemma3n
 
 An AI-powered personal assistant that integrates with Google Calendar and Gmail using your custom Gemma3n model from Hugging Face.
 
