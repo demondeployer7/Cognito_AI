@@ -1,0 +1,10 @@
+presets: []
+settings:
+  api_hash: cac1e3c73aafc1b8783d9fafd6b85101
+  api_id: 28904404
+  log_file: ./app.log
+  log_level: INFO
+  save_path: ./downloads
+users_map:
+  1355478935: Akshit
+  1938131878: 'ANKITH IITM MM Room No: 829'
